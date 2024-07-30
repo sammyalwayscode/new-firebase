@@ -12,6 +12,12 @@ const Header = () => {
       <Link to="/todo">
         <nav>todo</nav>
       </Link>
+      <Link to="/postimage">
+        <nav>post image</nav>
+      </Link>
+      <Link to="/getimage">
+        <nav>get image</nav>
+      </Link>
     </div>
   );
 };
